@@ -50,8 +50,8 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: （先日の 開発合宿@online \#3 で作ったモノの紹介（予））
-+ ごまふあざらし[Dash(.jl) のためのコンポーネントを作ろう.](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/dash/build/#13)
++ antimon2: [Julia で遊ぼう 敷き詰めパズル](https://hackmd.io/@antimon2/BksC0DnOd)
++ ごまふあざらし: [Dash(.jl) のためのコンポーネントを作ろう.](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/dash/build/#13)
 + …
 
 ---
