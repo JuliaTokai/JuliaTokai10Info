@@ -52,6 +52,7 @@ Note:
 
 + antimon2: [Julia で遊ぼう 敷き詰めパズル](https://hackmd.io/@antimon2/BksC0DnOd)
 + ごまふあざらし: [Dash(.jl) のためのコンポーネントを作ろう.](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/dash/build/#13)
++ hyrodium: Rotations.jlで学ぶ3次元の回転
 + …
 
 ---
